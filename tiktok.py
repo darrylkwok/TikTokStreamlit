@@ -32,4 +32,3 @@ def get_data(hashtag):
 if __name__ == '__main__':
     # Take the second argument and pass it in as a parameter to the get_data function
     get_data(sys.argv[1])
-    print(sys.argv)
